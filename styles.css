@@ -1,0 +1,121 @@
+#bus{
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: #ccfcc4;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navbar-brand{
+    font-size: 40px;
+    font-weight: 600;
+}
+.banner {
+    background-image: url('../images/banner.png'); /* Your background image URL */
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.banner-card {
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid green;
+}
+
+/* best offer */
+.best-offers {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+   
+.coupon {
+    margin: 10px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #FFBF0F;
+    border-radius: 15px;
+    
+  }
+  .coupon .discount {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  .coupon .code{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.offer-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.coupon-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.see-all-offers {
+    margin-top: 20px;
+}
+
+.select-seat {
+    padding: 50px 0;
+}
+
+.select-seat h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.select-seat button {
+    margin-right: 10px;
+}
+
+.select-seat input[type="text"],
+.select-seat input[type="email"] {
+    margin-bottom: 10px;
+}
+
+.select-seat .btn-success {
+    margin-top: 20px;
+}
+
+.btn{
+    gap: 10px;
+}
+.route{
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: #7e7676;
+}
+/*  footer */
+
+.footer {
+    background-color: #000;
+}
+
+.footer h5 {
+    color: #fff;
+}
+
+.footer p {
+    color: #ccc;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer hr {
+    background-color: #555;
+}
